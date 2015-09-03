@@ -1,0 +1,40 @@
+
+.customHeading
+{
+	font-family:serif;
+	font-size: 16pt;
+	color:red;
+	text-align: center;
+	text-decoration: underline;
+	}
+.customBackground
+{
+	background-color:silver;
+	border: medium;
+	border-color: black;
+}
+.customText
+{
+	font-family: cursive;
+	font-size: 12pt;
+	color: navy;
+	
+}
+.customSchedulePageWelcomeText
+{
+	 color:maroon;
+	 font-size: 16pt;
+	 font-family:serif;
+	 text-align:  center;
+}
+.custonmSchedulrDetailsInputFont{
+	font-size: 12pt;
+	color:black;
+	 
+}
+.customSchduleAddedColor
+{
+	font-family: cursive;
+	font-size: 15pt;
+	color: green;
+}
